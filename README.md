@@ -40,8 +40,9 @@ lib/
 ```
 
 ---
-
-## ✅ How To Run
+## video
+[video] (https://github.com/ashokkateshiya/DeviceSensorInfo/blob/main/device_sensor_info.mp4)
+## How To Run
 
 ### 1. Install Flutter:
 ```bash
